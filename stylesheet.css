@@ -8,15 +8,13 @@ body {
   background-size: contain;
   background-position: left;
   background-clip: content-box;
-  border: 60px outset;
+  border: 6px outset;
   border-bottom: 60px;
   text-align: right;
   break-inside: auto;
   height:300px;
 
-}
-
-
+};
 }
 h1{
   text-align:center;

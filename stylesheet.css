@@ -1,0 +1,40 @@
+body {
+  caret-color: auto;
+  color: teal;
+  background-color: paleyellow;
+  background-image: url('');
+  background-repeat: no-repeat;
+  float:none;
+  background-size: contain;
+  background-position: left;
+  background-clip: content-box;
+  border: 60px outset;
+  border-bottom: 60px;
+  text-align: right;
+  break-inside: auto;
+  height:300px;
+
+}
+
+
+}
+h1{
+  text-align:center;
+  color: teal;
+  font-family:serif;
+
+}
+p {
+  text-align:right;
+  border-width: thick;
+  border-right-style: ridge;
+  font-style: oblique;
+}
+  .floor {
+  font-style:italic;
+  color: sea;
+  text-align:center;
+}
+.green{
+  text-align: center;
+}

@@ -17,11 +17,13 @@
 #### .git
 
 
-## Breakdown of the project behaviours
-#### The length sizes cannot form  a triangle i.e LengthA >= (LengthB + LengthC)
-#### None of the three length sizes is equal to each other hence they form a Scalene Triangle
-#### The 2 length sizes of a triangle are equal hence they form an Isosceles Triangle
-#### All length sizes are equal hence they form an Equilateral Triangle
+## Breakdown of the project individual behaviours
+#### The length sizes cannot form  a triangle i.e lengthA >= (lengthB + lengthC)
+#### None of the three length sizes is equal to each other hence they form a Scalene Triangle i.e lengthA != lengthB && 
+#### lengthB != lengthC
+#### The 2 length sizes of a triangle are equal hence they form an Isosceles Triangle i.e lengthA == lengthB || 
+#### lengthB == lengthC
+#### All length sizes are equal hence they form an Equilateral Triangle i.e lengthA == lengthB && lengthB == lengthC
 
 
 ## License 

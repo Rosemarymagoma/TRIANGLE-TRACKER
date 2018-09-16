@@ -29,5 +29,5 @@
 #### https://choosealicense.com/licenses/mit/
 
 
-### Copyright (C)
+## Copyright (C)
 #### Rosemary Magoma

@@ -1,7 +1,7 @@
 body {
   color: teal;
   background-color: lightgray;
-
+  font-weight: bold;
   background-image: url('https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQeSbFmn04D-iwhITss5Mte8a6VFMNR4ncHRLuvu3nwvqHPcLAL');
   background-repeat:
   background-size: cover;

@@ -3,7 +3,7 @@ body {
   background-color: lightgray;
 
   background-image: url('https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQeSbFmn04D-iwhITss5Mte8a6VFMNR4ncHRLuvu3nwvqHPcLAL');
-  background-repeat: 
+  background-repeat:
   background-size: cover;
   float:none;
   background-size: contain;
@@ -40,9 +40,7 @@ justify-content: space-around;
 height: 200px;
 
 }
-.green{
-  text-align: center;
-}
+
 
 
 

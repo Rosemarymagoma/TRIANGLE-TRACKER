@@ -13,7 +13,23 @@ body {
   border-bottom: 60px;
   text-align: center;
   break-inside: auto;
-  height:300px;
+  animation: mymove 5s infinite;
+
+    -webkit-animation: mymove 5s infinite; /* Chrome, Safari, Opera */
+    animation: mymove 5s infinite;
+}
+
+  /* Code for old Chrome, Safari and Opera */
+  @-webkit-keyframes mymove {
+      from {background-color: aqua;}
+      to {background-color: teal;}
+  }
+
+  /* Standard syntax */
+  @keyframes mymove {
+      from {background-color: aqua;}
+      to {background-color: teal;}
+  }
 
 };
 
@@ -21,7 +37,6 @@ h1{
   text-align:center;
   color: teal;
   font-family:serif;
-g
 }
 p {
   text-align:right;
